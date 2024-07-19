@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3jTNLq78hSZzR0RO9cA5DI57AHIw69DvY4JnTJZTUbyUFB6Z6RmnYqGQ2wab61hwx0/NwoCo6IZiPVu5Bh4rw==",
+  "success": true,
+  "projectFilePath": "/home/libvm/kl/3/Steam_Info/Steam_Info.csproj",
+  "expectedPackageFiles": [
+    "/home/libvm/.nuget/packages/htmlagilitypack/1.11.61/htmlagilitypack.1.11.61.nupkg.sha512",
+    "/home/libvm/.nuget/packages/htmlagilitypack.cssselectors/1.0.2/htmlagilitypack.cssselectors.1.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlAgilityPack.CssSelectors 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlAgilityPack.CssSelectors",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
